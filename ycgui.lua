@@ -1,4 +1,5 @@
 -- dont you dare call this ai, this was literally just a simple gui script, with 1 function
+-- I'm tired of obfuscating over and over, so i'll just leave this here without any obfuscations.
 
 local Players = game:GetService("Players")
 local localPlayer = Players.LocalPlayer
